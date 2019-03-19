@@ -1,0 +1,63 @@
+c:\users\леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+C:\Users\Леся\documents\visual studio 2015\Projects\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+D:\YandexDisk\Программирование\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+C:\Users\user4\Desktop\MyNeuronNet\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+C:\Users\Леся\Desktop\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+C:\Users\user4\Dropbox\Files\year 2016\мирэа\преподавание\студенты\Романова\MyNeuronNet v2\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+D:\Рабочий стол\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.exe.config
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.exe
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.pdb
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.exe
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\bin\Debug\MyNeuronNet.pdb
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.Form1.resources
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.Properties.Resources.resources
+D:\YandexDisk\Программирование\MyNeuronNet v3\MyNeuronNet v3\MyNeuronNet\obj\Debug\MyNeuronNet.csproj.GenerateResource.Cache
